@@ -1,5 +1,3 @@
-# Resume
-
 ## Research Analyst at the Connecticut Department of Public Health
 
 ### Work Experience
