@@ -1,6 +1,6 @@
 # mikeeschneider.github.io
 
-**## Research Analyst at the Connecticut Department of Public Health**
+## ** Research Analyst at the Connecticut Department of Public Health**
 
 ### Work Experience
 Work Experience 1
