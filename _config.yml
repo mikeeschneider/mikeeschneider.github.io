@@ -1,12 +1,5 @@
 title: Michael Schneider
 logo: assets/img/headshot_circle.jpeg
-
+description: <a href="https://mikeeschneider.github.io/PowerBI_Portfolio">Power BI Portfolio</a>
 show_downloads: true
 theme: jekyll-theme-minimal
-
-sidebar:
-  style: docked
-
-
-description: <a href="https://mikeeschneider.github.io/PowerBI_Portfolio">Power BI Portfolio</a>
-description: <a href="https://mikeeschneider.github.io/Coding_Portfolio">Coding Portfolio</a>
