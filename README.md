@@ -21,8 +21,8 @@
 **Other:**  
 	Knowledge of ICD-10, LOINC, SNOMED-CT code systems, and HL7 formatted electronic messages (HL7 v2, CDA, and FHIR). Thorough understanding of HIPAA and PHI.  
 
-**Accepted Conference Abstracts and Presentations**  
-Title: Electronic Case Reporting Data Validation and Quality Assurance in Connecticut in 2023: Use of Powershell, Xslt, and Power Query to Improve Efficiency and Timeliness  
+##Accepted Conference Abstracts and Presentations  
+Title: [Electronic Case Reporting Data Validation and Quality Assurance in Connecticut in 2023: Use of Powershell, Xslt, and Power Query to Improve Efficiency and Timeliness](https://github.com/mikeeschneider/CSTE2024/blob/main/Abstract)  
 Date: 6/11/24  
 Conference: 2024 Council of State and Territorial Epidemiologists Annual Conference  
 
