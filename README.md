@@ -3,9 +3,9 @@
 
 ### Areas of Expertise
 **Computer Skills:**  
-	Statistical Software:	R, SPSS, Stata  
-	Microsoft Software:	Power BI, Outlook, Excel, Word, Powerpoint, Publisher, Office 365 applications, Visual Basic for Excel  
-	Other:	CTEDSS, RCKMS, PowerShell, XSLT  
+    Statistical Software:	R, SPSS, Stata  
+    Microsoft Software:	Power BI, Outlook, Excel, Word, Powerpoint, Publisher, Office 365 applications, Visual Basic for Excel, GitHub, Microsoft SQL Server Management Studio  
+    Other:	CTEDSS, RCKMS, PowerShell, XSLT  
 **Data Analytics Skills:**  
 	Data Analysis:	Statistical Testing, Data Management  
 	Data Quality Analyst:	Quality Control, Quality Assurance, Pharmaceutical GMP, Regulatory Training  
@@ -32,10 +32,15 @@ Conference: 2025 Council of State and Territorial Epidemiologists Annual Confere
 
 ### Work Experience  
 **Connecticut Department of Public Health**  
+**Research Analyst**  
+January 2024-Present  
+Currently I work with a wide range of data sources to create interactive and static Power BI reports for stakeholders. The reports are used by internal management staff as well as the public. 
+
+**Connecticut Department of Public Health**  
 **Epidemiologist, Informatics Unit**  
 December 2021-January 2024  
-Currently work on the electronic case reporting (eCR) project, where I help to map elements from the Consolidated Clinical Document (CCD) to fields in the Connecticut Electronic Disease Surveillance System (CTEDSS). I also complete data analysis and validation on the health data from senders using a combination of PowerShell and extensible stylesheet transformations (XSLTs), which both use aspects of functional programming. Knowledge of PowerShell, XSLT, and eCR allowed me to develop scripts that were shared at the Council for State Territorial Epidemiologists (CSTE) and provided to the public on GitHub. Power BI along with Data Analysis Expressions (DAX) are used to create dashboards and reports to communicate findings to stakeholders. Dimensional data modeling, star schema in particular, is used with the eCR Power BI dashboards to facilitate the reporting of data. 
-Additionally, I provide assistance with reconciliation of case data in CTEDSS, manipulation of spreadsheets for rostering, and crosswalk outside data to system fields. For recurring rosters, I developed a Visual Basic script to make data manipulation easier for staff. I also use R programming language to create functions that are used with eCR and electronic laboratory report (ELR) data. The code that I develop is typically stored in version control programs such as OneDrive, GitHub, or the state Azure DevOps repositories. Finally, I work with the Casetivity team to develop online submission forms for COVID, Chlamydia, and Gonorrhea. These forms automate the upload of case data by mapping the fields from the user interface to an XML that can be uploaded to CTEDSS.  
+    Worked on the electronic case reporting (eCR) project, where I helped to map elements from the Consolidated Clinical Document (CCD) to fields in the Connecticut Electronic Disease Surveillance System (CTEDSS). I also completed data analysis and validation on the health data from senders using a combination of PowerShell and extensible stylesheet transformations (XSLTs). Knowledge of PowerShell, XSLT, and eCR allowed me to develop scripts that were shared at the Council for State Territorial Epidemiologists (CSTE) and provided to the public on GitHub. Power BI along with Data Analysis Expressions (DAX) were used to create dashboards and reports to communicate findings to stakeholders. Dimensional data modeling, star schemas in particular, were used with to create eCR Power BI dashboards to facilitate the reporting of data. 
+    Additionally, I provided assistance with reconciliation of case data in CTEDSS, manipulation of spreadsheets for rostering, and crosswalked outside data to system fields. For recurring rosters, I developed a Visual Basic script to make data manipulation easier for staff. I also used R programming language to create functions that are used with eCR and electronic laboratory report (ELR) data. The code that I developed is typically stored in version control programs such as OneDrive, GitHub, or the state Azure DevOps repositories. Finally, I worked with the Casetivity team to develop online submission forms for COVID, Chlamydia, and Gonorrhea. These forms automate the upload of case data by mapping the fields from the user interface to an XML that can be uploaded to CTEDSS.  
 
 **Center for Advanced Reproductive Services**  
 **Medical Technologist, Farmington, CT**  
