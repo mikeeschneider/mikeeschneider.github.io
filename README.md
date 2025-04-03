@@ -22,11 +22,15 @@
 	Knowledge of ICD-10, LOINC, SNOMED-CT code systems, and HL7 formatted electronic messages (HL7 v2, CDA, and FHIR). Thorough understanding of HIPAA and PHI.  
 
 ### Accepted Conference Abstracts and Presentations  
-Title: [Electronic Case Reporting Data Validation and Quality Assurance in Connecticut in 2023: Use of Powershell, Xslt, and Power Query to Improve Efficiency and Timeliness](https://github.com/mikeeschneider/CSTE2024/blob/main/Abstract)  
+Title: [Electronic Case Reporting Data Validation and Quality Assurance in Connecticut in 2023: Use of Powershell, Xslt, and Power Query to Improve Efficiency and Timeliness](https://github.com/mikeeschneider/CSTE2024/blob/main/Abstract.md)  
 Date: 6/11/24  
 Conference: 2024 Council of State and Territorial Epidemiologists Annual Conference  
 
-Title: A Peak behind the Curtain: Using Current Reportable Conditions Trigger Codes to Reverse Analyze eCR Triggering in Electronic Health Record Systems—Connecticut, 2024  
+Title: [A Peak behind the Curtain: Using Current Reportable Conditions Trigger Codes to Reverse Analyze eCR Triggering in Electronic Health Record Systems—Connecticut, 2024](https://github.com/mikeeschneider/CSTE2025/blob/main/eCR%20Triggering%20Abstract/Triggering%20Abstract.md)  
+Date: TBD  
+Conference: 2025 Council of State and Territorial Epidemiologists Annual Conference  
+
+Title: [Connecticut’s Lightweight and Affordable Electronic Case Reporting (eCR) Power BI Report](https://github.com/mikeeschneider/CSTE2025/blob/main/eCR%20Power%20BI%20Report%20Abstract/eCR%20Power%20BI%20Report%20Abstract.md)  
 Date: TBD  
 Conference: 2025 Council of State and Territorial Epidemiologists Annual Conference  
 
